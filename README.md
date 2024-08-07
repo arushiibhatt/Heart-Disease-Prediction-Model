@@ -3,3 +3,5 @@
  
  Submission to the [DS3](https://ds3utsc.com/) Datathon 2024 with a prediction accuracy of 83% on private data
 
+ Languages and Libraries used: Python, pandas, scikit-learn
+
